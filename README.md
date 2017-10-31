@@ -1,6 +1,6 @@
 ## KEYWORD RAIN
 
-포털에서 키워드를 뿌려주는 Processing-java Based Visualization.
+포털에서 키워드를 가져와 비로 만들어주는 Processing-java Based Visualization.
 
 ### 동작 프로세스 
 1. 키워드를 포털에서 스크랩한다.
