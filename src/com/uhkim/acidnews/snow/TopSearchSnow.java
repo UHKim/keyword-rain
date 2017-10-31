@@ -3,9 +3,7 @@ package com.uhkim.acidnews.snow;
 import processing.core.*;
 
 public class TopSearchSnow {
-	
-	
-	
+
 	public float x;
 	public float y;
 	public float alpha;

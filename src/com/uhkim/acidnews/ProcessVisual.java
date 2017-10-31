@@ -72,13 +72,14 @@ public class ProcessVisual extends PApplet{
 		System.out.println("Result:"+nearSnow.x+","+nearSnow.y);
 
 		if (nearSnow!=null){
-	    	try {
-				r.exec("open -a safari "+nearSnow.newsURL);
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				System.out.println("Snow Not Found");
-				e.printStackTrace();
-			}
+            System.out.println(nearSnow.searchWord);
+//            try {
+//				//r.exec("open -a safari "+nearSnow.newsURL);
+//			} catch (IOException e) {
+//				// TODO Auto-generated catch block
+//				System.out.println("Snow Not Found");
+//				e.printStackTrace();
+//			}
 		}
     }
     
