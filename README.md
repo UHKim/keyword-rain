@@ -3,7 +3,8 @@
 ![Example](https://github.com/UHKim/keyword-rain/blob/master/keywordrain180809.gif "example")
 
 포털에서 실시간 검색어를 가져와 비로 만들어서 보여주는 Processing-java Based Visualization.
-키워드를 누르면 키워드의 검색주소로 웹페이지를 띄운다.
+
+키워드를 누르면 키워드의 검색주소로 웹페이지를 띄다.
 
 ### How?
 1. 키워드를 포털에서 스크랩 해온다.
